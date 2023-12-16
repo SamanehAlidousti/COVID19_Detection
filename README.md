@@ -24,7 +24,8 @@ Global Average Pooling: Average pooling layer that pools the spatial dimensions 
 Fully Connected Layer: A fully connected layer for the final classification.
 ResNet-18 has been widely used as a baseline model for various image classification tasks due to its relatively compact architecture compared to deeper ResNet variants like ResNet-34, ResNet-50, and so on. The number in the ResNet-X naming convention represents the total number of convolutional layers in the network.
 
- 
+ ![Picture1](https://github.com/SamanehAlidousti/COVID19_Detection/assets/107434108/b9242ebe-af42-4bc7-8228-2782d0612c60)
+
 
 In this project, I used Transfer learning method to train the model because of the limited training dataset which resulted in almost 98 percent accuracy. However, this approach could not be used in a real-world situation.
 
