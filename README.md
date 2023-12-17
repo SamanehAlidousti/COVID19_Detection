@@ -9,7 +9,11 @@ I run this project on Jupyter Notebook.
 
 ## Dataset
 
-The dataset can be found in [Kaggle] (https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database) which includes COVID-19, normal, and other respiratory infections is being provided in several phases. In this project, I used the second release of the dataset with a total number of 15,063 images, including 3,586 COVID-19 cases, 10,162 normal, and 1,315 viral cases of pneumonia. The number of classes is imbalanced which could bias the behavior of the model. To address this, I used the Data Augmentation technique to increase the number of COVID-19 cases. 
+The dataset can be found in Kaggle [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database) which includes COVID-19, normal, and other respiratory infections is being provided in several phases. 
+![Picture2](https://github.com/SamanehAlidousti/COVID19_Detection/assets/107434108/0cdf8ef7-8400-4966-aceb-8d48acef3f21)
+
+
+In this project, I used the second release of the dataset with a total number of 15,063 images, including 3,586 COVID-19 cases, 10,162 normal, and 1,315 viral cases of pneumonia. The number of classes is imbalanced which could bias the behavior of the model. To address this, I used the Data Augmentation technique to increase the number of COVID-19 cases. 
 
 
 ## Overview
