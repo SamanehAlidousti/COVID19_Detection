@@ -17,6 +17,7 @@ The dataset can be found in [Kaggle] (https://www.kaggle.com/datasets/tawsifurra
 *Resnet-18
 ResNet-18 is a convolutional neural network (CNN) architecture that belongs to the ResNet (Residual Network) family. The key innovation of ResNet is the introduction of residual blocks, which contain skip connections or shortcuts that allow the network to learn residual mappings. This helps in addressing the vanishing gradient problem, making it easier to train very deep neural networks. 
 ResNet-18 specifically is one variant of the ResNet architecture, and its depth is 18 layers. The architecture consists of several residual blocks, and the general structure of ResNet-18 is as follows:
+
 Initial Convolutional Layer: 7x7 convolution with 64 filters, followed by batch normalization and ReLU activation.
 Max Pooling Layer: 3x3 max pooling with stride 2.
 Residual Blocks: Four sets of residual blocks, each containing two convolutional layers with batch normalization and ReLU activation.
