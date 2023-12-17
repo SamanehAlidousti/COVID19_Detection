@@ -10,6 +10,7 @@ I run this project on Jupyter Notebook.
 ## Dataset
 
 The dataset can be found in Kaggle [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database) which includes COVID-19, normal, and other respiratory infections is being provided in several phases. 
+
 ![Picture2](https://github.com/SamanehAlidousti/COVID19_Detection/assets/107434108/0cdf8ef7-8400-4966-aceb-8d48acef3f21)
 
 
